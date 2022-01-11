@@ -8,7 +8,7 @@ const data = {
             image:'/images/p1.jpg',
             price:2900,
             brand:'Samsung',
-            rating:4.5,
+            rating:5,
             numReviews:10,
             description:'Amazing Phone by Samsung',
         },
@@ -68,11 +68,11 @@ const data = {
             image:'/images/p6.jpg',
             price:350,
             brand:'Nvidia',
-            rating:4.5,
+            rating:5,
             numReviews:10,
             description:'Amazing Graphic Card by Nvidia',
-        },
-    ],
+        }
+    ]
 
 }
 
